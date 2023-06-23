@@ -24,7 +24,7 @@ The feature works like this: we take the 1st frame, diffuse it as usual as an im
 - Add storing RAFT on gdrive
 
 ### 23.05.2022
-- Add [colab](https://github.com/Sxela/DiscoDiffusion-Warp/blob/main/image_morphing_3d.ipynb) for 3d animation only 
+- Add [colab](https://github.com/iharosi/DiscoDiffusion-Warp/blob/main/image_morphing_3d.ipynb) for 3d animation only 
 
 ### 22.05.2022:
 - Add saving frames and flow to google drive (suggested by Chris the Wizard#8082)
@@ -84,9 +84,3 @@ blend_mode:
 #
 
 This is a variation of the awesome [DiscoDiffusion colab](https://colab.research.google.com/github/alembics/disco-diffusion/blob/main/Disco_Diffusion.ipynb#scrollTo=Changelog)
-
-If you like what I'm doing you can check my linktree
-- follow me on [twitter](https://twitter.com/devdef)
-- tip me on [patreon](https://www.patreon.com/sxela) 
-
-Thank you for being awesome!
